@@ -16,6 +16,31 @@ Permtir la creacion y gestion de una lista de tareas
 | Fase: | Planeación | Desarrollo | Pruebas | Lanzamiento |
 
 # Pantallas
-p
+## Login
+
+## Listado de Tareas
+
+
+# ER
+
+| Usuario |
+|------|
+| String Usuario |
+| String Contraseña |
+| |
+| |
+| login(Usuario, Contraseña) |
+
+| Tarea | 
+|--------|
+| String NombreT |
+| Bool Completado |
+| |
+| completado() |
+
+
+
+
+
 
 
